@@ -1,0 +1,26 @@
+{
+  "name": "prajwal-marketing-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.542.0",
+    "next": "^15.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.9.2",
+    "@types/react": "^19.1.12",
+    "@types/node": "^22.18.0",
+    "postcss": "^8.5.6",
+    "autoprefixer": "^10.4.21"
+  }
+}
